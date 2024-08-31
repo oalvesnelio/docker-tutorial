@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "raynigon.nginx-formatter",
+        "ahmadalli.vscode-nginx-conf"
+    ]
+}
